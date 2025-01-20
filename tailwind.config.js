@@ -27,6 +27,7 @@ module.exports = {
         subtitle: ["21px", { lineHeight: "25.41px" }],
         para: ["16px", { lineHeight: "19.36px" }],
         bullet: ["14px", { lineHeight: "16.94px" }],
+        mdTextsize: ["48px", { lineHeight: "48px" }],
 
 
       },
