@@ -4,9 +4,9 @@ const Hero = () => {
   return (
 
   <div className="">
-    <img src={HeroImage} alt="Logo" className="absolute w-full h-full object-cover" />
+    <img src={HeroImage} alt="Logo" className=" w-full h-full object-cover" />
     
-    <div className=" absolute bg-gradient-to-r from-green-400 to-cyan-500 w-[630px] h-[306px] flex items-center justify-start p-8">
+    <div className="  bg-gradient-to-r from-green-400 to-cyan-500 w-[630px] h-[306px] flex items-center justify-start p-8">
       <div className="max-w-2xl">
         <h1 className="text-white text-4xl md:text-5xl font-bold leading-tight mb-6">
           We Crush Your Competitors, Goals, And Sales Records - Without The B.S.
