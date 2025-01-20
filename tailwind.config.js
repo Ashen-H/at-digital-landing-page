@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primary': '#4c40f7',      // Bluish Purple
+        'primary': '#4F46E5',      // Bluish Purple
         'secondary': '#fb8f2d',    // Yuzu Jam
         'analogous1': '#6b4ef9',   // Ice Ice Baby
         'analogous2': '#42d7e4',   // Rich Blue
@@ -24,12 +24,16 @@ module.exports = {
         title: ["24px", { lineHeight: "32px" }],
         heading: ["58px", { lineHeight: "73px" }],
         paragraph: ["22px", { lineHeight: "32px" }],
-        subtitle: ["36px", { lineHeight: "46px" }],
+        subtitle: ["21px", { lineHeight: "25.41px" }],
         para: ["16px", { lineHeight: "19.36px" }],
+        bullet: ["14px", { lineHeight: "16.94px" }],
+
+
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
         inter: ['Inter', 'sans-serif'],
+        lato: ['lato', 'sans-serif'],
       },
     },
   },
