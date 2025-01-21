@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logoImage from '../assets/Logo.png';
+import logoImage from '../assets/logo.png';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

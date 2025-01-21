@@ -1,6 +1,6 @@
-import HeroImage from "../assets/HeroSection.png";
-import HeroImagemb from "../assets/HeroImagemb.png";
-import Herosectiontab from "../assets/Herosectiontab.png";
+import HeroImage from "../assets/hero-section.png";
+import HeroImagemb from "../assets/hero-image-mb.png";
+import Herosectiontab from "../assets/hero-section-tab.png";
 
 const Hero = () => {
   return (

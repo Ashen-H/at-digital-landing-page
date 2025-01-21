@@ -1,5 +1,5 @@
-import Webimg from '../assets/WebMobileimg.png';
-import Strategyimg from '../assets/DigitalStrategyimg.png';
+import Webimg from '../assets/web-mobile-img.png';
+import Strategyimg from '../assets/digital-strategy-img.png';
 const Services = () => {
     return (
       <div className="py-20 px-6">
