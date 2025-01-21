@@ -16,43 +16,26 @@ const Footer = () => {
 
           {/* Technologies */}
           <div>
-            <h4 className="font-semibold text-subtitle mb-4">
-              Our Technologies
-            </h4>
-            <ul className="font-medium font-inter text-bullet">
-              <li className="mt-2">
-                <a href="#">ReactJS</a>
-              </li>
-              <li className="mt-2">
-                <a href="#">Gatsby</a>
-              </li>
-              <li className="mt-2">
-                <a href="#">NextJS</a>
-              </li>
-              <li className="mt-2">
-                <a href="#">NodeJS</a>
-              </li>
-            </ul>
-          </div>
+  <h4 className="font-semibold text-subtitle mb-4">Our Technologies</h4>
+  <ul className="font-medium font-inter text-bullet space-y-5">
+    <li className="">ReactJS</li>
+    <li className="">Gatsby</li>
+    <li className="">NextJS</li>
+    <li className="">NodeJS</li>
+  </ul>
+</div>
 
-          {/* Services */}
-          <div>
-            <h4 className="font-semibold text-subtitle mb-4">Our Services</h4>
-            <ul className="font-medium font-inter text-bullet space-y-5">
-              <li className="mt-2">
-                <a href="#">Social Media Marketing</a>
-              </li>
-              <li className="mt-2">
-                <a href="#">Web & Mobile App Development</a>
-              </li>
-              <li className="mt-2">
-                <a href="#">Data & Analytics</a>
-              </li>
-              <li className="mt-2">
-                <a href="#">Google Marketing Solutions</a>
-              </li>
-            </ul>
-          </div>
+{/* Services */}
+<div>
+  <h4 className="font-semibold text-subtitle mb-4">Our Services</h4>
+  <ul className="font-medium font-inter text-bullet space-y-5">
+    <li className="">Social Media Marketing</li>
+    <li className="">Web & Mobile App Development</li>
+    <li className="">Data & Analytics</li>
+    <li className="">Google Marketing Solutions</li>
+  </ul>
+</div>
+
         </div>
 
         {/* Bottom Links */}
