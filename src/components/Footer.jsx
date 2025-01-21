@@ -3,7 +3,7 @@ const Footer = () => {
     return (
       <footer className="bg-primary text-white">
         <div className=" mx-auto px-9 py-9 lg:px-24 lg:py-12">
-          <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-5 gap-8">
             {/* Company Info */}
             <div className="col-span-1 md:col-span-3 max-w-md">
             <img src={logoImage} alt="Logo" className="logo-image" />
