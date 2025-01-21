@@ -64,7 +64,7 @@ const Header = () => {
                 <a
                   key={item.title}
                   href={item.href}
-                  className="text-primary hover:text-accent-white transition-colors p-4"
+                  className="text-black hover:text-accent-whit text-bullet font-inter transition-colors p-4"
                   onClick={() => setIsMenuOpen(false)}
                 >
                   {item.title}
