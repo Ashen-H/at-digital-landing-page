@@ -16,10 +16,10 @@ const Footer = () => {
             <div>
               <h4 className="font-semibold text-subtitle mb-4">Our Technologies</h4>
               <ul className="font-medium font-inter text-bullet">
-                <a href=""><li className="mt-2">ReactJS</li></a>
-                <a href=""><li className="mt-2">Gatsby</li></a>
-                <a href=""><li className="mt-2">NextJS</li></a>
-                <a href=""><li className="mt-2">NodeJS</li></a>
+                <a href="#"><li className="mt-2">ReactJS</li></a>
+                <a href="#"><li className="mt-2">Gatsby</li></a>
+                <a href="#"><li className="mt-2">NextJS</li></a>
+                <a href="#"><li className="mt-2">NodeJS</li></a>
               </ul>
 
             </div>
@@ -28,10 +28,10 @@ const Footer = () => {
             <div>
               <h4 className="font-semibold text-subtitle mb-4">Our Services</h4>
               <ul className="font-medium font-inter text-bullet space-y-5 ">
-                    <a href=""><li className="mt-2">Social Media Marketing</li></a>
-                     <a href=""><li className="mt-2">Web & Mobile App Development</li></a>
-                    <a href=""><li className="mt-2">Data & Analytics</li></a>
-                     <a href=""><li className="mt-2">Google Marketing Solutions</li></a>
+                    <a href="#"><li className="mt-2">Social Media Marketing</li></a>
+                     <a href="#"><li className="mt-2">Web & Mobile App Development</li></a>
+                    <a href="#"><li className="mt-2">Data & Analytics</li></a>
+                     <a href="#"><li className="mt-2">Google Marketing Solutions</li></a>
                 </ul>
 
             </div>
